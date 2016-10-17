@@ -1,5 +1,4 @@
-# Trabalho-Maquina-de-Busca-AEDS-2
-Implementação de uma máquina de busca utilizando indices invertidos e Arvore Patricia como estrutura de dados.
+# Maquina-de-Busca-com-Patricia
  
 Máquinas de busca, tais como Google, Bing, Yahoo, trabalham com a busca de
 palavras-chave em textos armazenados na Web. Para que os documentos contendo os
